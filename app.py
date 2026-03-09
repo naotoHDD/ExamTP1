@@ -1,2 +1,5 @@
 data = [2,4,6]
-print(sum(data))
+
+print(Somme :, sum(data))
+print(Moyenne :, sum(data)/len(data))
+print(Max :, max(data))
